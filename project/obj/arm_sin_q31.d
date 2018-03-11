@@ -1,0 +1,9 @@
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\DSP_Lib\Source\FastMathFunctions\arm_sin_q31.c
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\Include\arm_math.h
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\Include\core_cm4.h
+.\obj\arm_sin_q31.o: F:\keil5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\Include\core_cmInstr.h
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\Include\core_cmFunc.h
+.\obj\arm_sin_q31.o: ..\librarys\CMSIS\Include\core_cm4_simd.h
+.\obj\arm_sin_q31.o: F:\keil5\ARM\ARMCC\bin\..\include\string.h
+.\obj\arm_sin_q31.o: F:\keil5\ARM\ARMCC\bin\..\include\math.h
